@@ -6,3 +6,11 @@
 .home{
     text-shadow: 2px 2px black;
 }
+header .intro-text .intro-heading{
+    /*background-color: rgba(210, 215, 211,0.5);*/
+}
+
+header .intro-text .intro-lead-in{
+    /*background-color: rgba(238, 238, 238,0.5);*/
+    /*color: #F1A9A0;*/
+}
