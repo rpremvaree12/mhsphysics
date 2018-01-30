@@ -100,9 +100,9 @@ fieldset[disabled] .btn-primary.active {
   background-color: white;
 }
 .btn-xl {
-  color: black;
-  background-color: #fed136;
-  border-color: #fed136;
+  color: white;
+  background-color: rgba(0,0,0,0);
+  /*border-color: black;*/
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -115,9 +115,9 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
-  color: white;
-  background-color: #fec503;
-  border-color: #f6bf01;
+  color: black;
+  background-color: white;
+  border-color: black;
 }
 .btn-xl:active,
 .btn-xl.active,

@@ -8,7 +8,7 @@
 }
 
 header {
-  background-image: url('../img/math-bg.jpg');
+  background-image: url('../img/starsCH.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -22,4 +22,8 @@ header {
 
 a.list-group-item:focus, a.list-group-item:hover, button.list-group-item:focus, button.list-group-item:hover {
     background-color: #fed136;
+}
+
+.btn-x1{
+    background-color: rgba(0,0,0,0.3);
 }
